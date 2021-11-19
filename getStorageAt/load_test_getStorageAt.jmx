@@ -393,7 +393,7 @@
           </collectionProp>
         </ModuleController>
         <hashTree/>
-        <ModuleController guiclass="ModuleControllerGui" testclass="ModuleController" testname="TransactionReceipt" enabled="true">
+        <ModuleController guiclass="ModuleControllerGui" testclass="ModuleController" testname="TransactionReceipt" enabled="false">
           <collectionProp name="ModuleController.node_path">
             <stringProp name="23750841">工作台</stringProp>
             <stringProp name="2490185">Plan</stringProp>
@@ -411,7 +411,7 @@
           </collectionProp>
         </ModuleController>
         <hashTree/>
-        <ModuleController guiclass="ModuleControllerGui" testclass="ModuleController" testname="getStorageAt" enabled="false">
+        <ModuleController guiclass="ModuleControllerGui" testclass="ModuleController" testname="getStorageAt" enabled="true">
           <collectionProp name="ModuleController.node_path">
             <stringProp name="23750841">工作台</stringProp>
             <stringProp name="2490185">Plan</stringProp>
@@ -503,7 +503,7 @@
         <hashTree/>
       </hashTree>
     </hashTree>
-    <WorkBench guiclass="WorkBenchGui" testclass="WorkBench" testname="Workplatform" enabled="true">
+    <WorkBench guiclass="WorkBenchGui" testclass="WorkBench" testname="工作台" enabled="true">
       <boolProp name="WorkBench.save">true</boolProp>
     </WorkBench>
     <hashTree/>
